@@ -1,6 +1,7 @@
 # Sales-Dashboard---Power-bi-project
-power bi project -Sales Dashboard
+
 Sales Dashboard Project
+
 In this project ,I have analysed the sales data of Beverage brands based out of united states.Insight over kpi's,Sales,Profit,Forecasting done in lucid way.
 
 Overview:
